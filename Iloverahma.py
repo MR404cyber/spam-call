@@ -22,7 +22,7 @@ def main():
   \__ \/ __ \/ __ `/ __ `__ \/ /   / __ `/ / / 
  ___/ / /_/ / /_/ / / / / / / /___/ /_/ / / /  
 /____/ .___/\__,_/_/ /_/ /_/\____/\__,_/_/_/   
-    /_/  %sCoded by MR.404♡Rahma Anonymous-Team
+    /_/  %sCoded by MR.40 Anonymous-Team
     '''%(C,W)
 	for spam in range(int(sys.argv[2])):
 		citcall(sys.argv[1])
